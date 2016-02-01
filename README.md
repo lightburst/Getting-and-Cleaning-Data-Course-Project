@@ -25,6 +25,6 @@ Merges the two datasets
 Converts the activity and subject columns into factors
 Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
-The full code is in the file tidy.txt
+The full code is in the file TidyData.txt
 
 Additional information about the variables, data and transformations is in CodeBook.MD
