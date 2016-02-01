@@ -46,4 +46,3 @@ Subsititutes specific character strings in the column names of the dataset means
 ###PART 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject
 Part 5 of the R script run_analysis does the following (Please Note: This portion the script requires the dplyr and tidyr packages) -
 Creates a text file TidyData.txt in the workling directory that gives a grouped mean for all selected features by activity and subject
-The data is arranged in a neat tidy format in 7 columns and 11880 rows
